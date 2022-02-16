@@ -1,4 +1,5 @@
 # FakeYou-Tacotron2-Notebook
+![alt text](https://github.com/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/assets/FakeYou_Logo.png?raw=true)
 Tacotron2 Training Notebook for FakeYou.com
 
 ### Google Colab
