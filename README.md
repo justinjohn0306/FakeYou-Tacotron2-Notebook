@@ -6,8 +6,8 @@ Tacotron2 Training and Synthesis Notebooks for FakeYou.com
 
 **Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/FakeYou_Tacotron_2_(w_ARPAbet)_Training.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
 
+**Bonus**:
 
-**Synthesis Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/FakeYou_Tacotron2_Hi_Fi_GAN_(CPU).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
-
+**Vocoder Fine-tuning Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/FakeYou_HiFi_GAN_Fine_Tuning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
 
 
