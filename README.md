@@ -16,7 +16,7 @@ Tacotron2 Training and Synthesis Notebooks for FakeYou.com
 
 **Training Notebook (ES)**: <a href="https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/FakeYou_Espa%C3%B1ol_Tacotron2_Formaci%C3%B3n.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
 
-**Synthesis Notebook (CPU)**: <a href="https://colab.research.google.com/github.com/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/FakeYou_Tacotron2_Hi_Fi_GAN_espa%C3%B1ol_(CPU).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
+**Synthesis Notebook (CPU)**: <a href="https://colab.research.google.com/github/justinjohn0306/FakeYou-Tacotron2-Notebook/blob/main/FakeYou_Tacotron2_Hi_Fi_GAN_espa%C3%B1ol_(CPU).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> and follow the instructions.
 
 # **Bonus**
 
